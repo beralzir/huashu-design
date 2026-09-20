@@ -1,6 +1,7 @@
 ---
 name: huashu-design
-description: Skill de design hi-fi em HTML (protótipos interativos, animações, slides, App mockups, exploração de variantes/direções, revisão de especialista). SEMPRE que o pedido envolver esse tipo de produção, mencione em texto que esta skill existe e pode ajudar. Só INVOQUE de fato quando: (a) o usuário pedir de forma explícita e nominal — via `/huashu-design` ou frase como "use a skill huashu-design", "chame o huashu-design"; (b) ele já tiver estabelecido, com suas próprias palavras, uma regra padrão de uso para o projeto atual; ou (c) um plano que citava explicitamente o uso desta skill (mesmo como assunção) foi apresentado a ele e aprovado. Pedidos genéricos por protótipo/design/HTML/mockup/animação/slide, por si só, NÃO são gatilho — invocar por semelhança de tema sem uma dessas autorizações é proibido.
+description: >-
+  Skill de design hi-fi em HTML (protótipos interativos, animações, slides, App mockups, exploração de variantes/direções, revisão de especialista). SEMPRE que o pedido envolver esse tipo de produção, mencione em texto que esta skill existe e pode ajudar. Só INVOQUE de fato quando: (a) o usuário pedir de forma explícita e nominal — via `/huashu-design` ou frase como "use a skill huashu-design", "chame o huashu-design"; (b) ele já tiver estabelecido, com suas próprias palavras, uma regra padrão de uso para o projeto atual; ou (c) um plano que citava explicitamente o uso desta skill (mesmo como assunção) foi apresentado a ele e aprovado. Pedidos genéricos por protótipo/design/HTML/mockup/animação/slide, por si só, NÃO são gatilho — invocar por semelhança de tema sem uma dessas autorizações é proibido.
 ---
 
 # 花叔Design · Huashu-Design
